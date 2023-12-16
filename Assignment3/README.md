@@ -5,4 +5,4 @@
 
 ## Take-2: Teaching an LSTM to add two binary strings
 - Designed a script to generate pairs of strings and the corresponding addition result
-- Evaluated bitwise accuracy using both MSE and Cross ENtropy loss functions with different hidden state sizes for various string lengths.
+- Evaluated bitwise accuracy using both MSE and Cross Entropy loss functions with different hidden state sizes for various string lengths.
