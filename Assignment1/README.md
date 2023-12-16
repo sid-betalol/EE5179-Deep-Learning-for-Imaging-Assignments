@@ -1,5 +1,6 @@
 # Assignment-1: Implementing Backpropagation from scratch using NumPy
 
+- All experiments conducted on the MNIST Dataset and MLP architecture
 - Created template classes for activation functions, loss functions, optimizers with methods for calculating and backpropagating updates, with and without weight decay.
 - Activation Functions: Linear, Sigmoid, Tanh, ReLU, LeakyReLU
 - Loss Functions: Mean Squared Error, Cross Entropy
